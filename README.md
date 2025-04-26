@@ -1,4 +1,4 @@
-# 🧩 sample_module
+# 🧩 sample_nested_module
 
 **[`GACLI`](https://github.com/guillaumeast/gacli) module → Example and test module**
 
